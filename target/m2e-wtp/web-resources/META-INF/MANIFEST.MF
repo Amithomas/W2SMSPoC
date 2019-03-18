@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Nimmy
+Build-Jdk: 11.0.2
+Implementation-Title: w2smstest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: w2tesctgcp
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/w2tesctgcp/
+Created-By: Maven Integration for Eclipse
+
