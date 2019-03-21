@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cronentries>
+  <cron>
+    <url>/PostCD</url>
+    <target>default</target>
+    <description>keeping instance alive</description>
+    <schedule>every 10 minutes</schedule>
+  </cron>
+</cronentries>

@@ -24,6 +24,19 @@ public class CustomerDetails {
 	
 	@Column
 	private String regEmail;
+	
+	@Column
+	private Integer regStatus;
+	
+	
+
+	public Integer getRegStatus() {
+		return regStatus;
+	}
+
+	public void setRegStatus(Integer regStatus) {
+		this.regStatus = regStatus;
+	}
 
 	public Integer getCustomerId() {
 		return customerId;
